@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Tom!
 
-![twfi](./image - 2020-08-14T231336.460.png)
+![twfi](./twfi.png)
+
+- 🔭 I’m currently taking some time off from Meetups and organising ShipItCon.
 
 <!--
 **tomwillfixit/tomwillfixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
