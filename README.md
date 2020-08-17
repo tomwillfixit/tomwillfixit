@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tom!
 
-![twfi](./img/img-twfi.png)
+![tomwillfixit](./img/img-twfi.png)
 
 - 🔭 I’m currently taking some time off from Meetups and organising ShipItCon.
 
