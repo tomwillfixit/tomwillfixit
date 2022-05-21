@@ -2,7 +2,10 @@
 
 ![tomwillfixit](https://github.com/tomwillfixit/tomwillfixit/blob/master/img/img-twfi.png)
 
-- 🔭 I’m currently taking some time off from Meetups and organising ShipItCon.
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I7CTFEN)
+
+- 🔭 I’m currently working on [ShipItCon 2022](https://shipitcon.com) and [Rural Ireland Tech Advocates](https://rita.ie).
+- 🌱 I’m currently learning about [Docker Extensions](https://www.docker.com/blog/docker-extensions-discover-build-integrate-new-tools-into-docker-desktop/). This feature has huge potential.
 
 <!--
 **tomwillfixit/tomwillfixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
